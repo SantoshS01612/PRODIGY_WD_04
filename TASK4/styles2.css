@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url("aa.jpg") ;
+}
+header {
+    background-color:#5037ac;
+    color: #ffffff;
+    padding: 1rem ;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    background-color: #5037ac;
+}
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+    list-style: none;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+section {
+    padding: 20rem;
+    text-align: center;
+    background-color: rgb(29, 190, 61);
+}
+section {
+    padding: 2rem;
+    text-align: center;
+    background-color: rgb(227, 30, 70);
+}
+section {
+    padding: 2rem;
+    text-align: center;
+    background-color: rgb(237, 138, 51);
+}
+#home {
+    background-color:aqua;
+    padding: 4rem 2rem;
+    margin: 1rem 0;
+    
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#home img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    
+}
+#projects .project {
+    background-color: azure;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#about {
+    background-color: rgb(8, 12, 242);
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#contact{
+    background-color: rgb(8, 12, 242);
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+footer {
+    background-color: rgba(240, 255, 241, 0.007);
+    color: red;
+    text-align: center;
+    padding: 0.5rem 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
